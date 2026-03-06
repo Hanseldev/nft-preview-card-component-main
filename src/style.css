@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Overpass:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@theme {
+  --color-blue-primary: hsl(215, 51%, 70%);
+  --color-cyan-primary: hsl(178, 100%, 50%);
+
+  --color-blue-950: hsl(217, 54%, 11%);
+  --color-blue-900: hsl(216, 50%, 16%);
+  --color-blue-800: hsl(215, 32%, 27%);
+
+  --font-sans: 'Outfit', sans-serif;
+}
